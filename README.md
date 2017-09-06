@@ -75,7 +75,7 @@ Last question is if Firebase should over write file index.html. The answer to th
 
 
 now run:
- $ firebase deploy
+ ```$ firebase deploy```
 
 ## References
 
